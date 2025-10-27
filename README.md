@@ -22,7 +22,7 @@ The model is trained to classify text into one of several emotion categories.
 ---
 
 ## 📂 Dataset
-The model is trained on the **dair emotion** dataset. 
+The model is trained on the **dair emotion** dataset. <br>
 Link to the dataset on huggingface : https://huggingface.co/datasets/dair-ai/emotion
 - **Emotion Classes:** [anger, fear, joy, love, sadness, and surprise]
 - **Preprocessing:** Tokenization, padding, and embedding layer
